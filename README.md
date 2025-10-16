@@ -1,8 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>AIM:</h3>
-<h3>ENTER YOUR NAME : KRISHNAKANTH B </h3>
-<h3>ENTER YOUR REGISTER NO : 212223230109</h3>
+<h3>NAME : KRISHNAKANTH B </h3>
+<h3>REGISTER NO : 212223230109</h3>
 <h3>EX. NO : 3</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
